@@ -1,4 +1,5 @@
 .env
 .venv
+.ruff_check
 node_modules/
 __pycache__/
