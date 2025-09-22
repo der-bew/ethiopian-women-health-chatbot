@@ -1,5 +1,6 @@
 .env
 .venv
-.ruff_check
+.ruff_check/
 node_modules/
 __pycache__/
+.python-version
